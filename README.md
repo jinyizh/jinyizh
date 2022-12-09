@@ -1,6 +1,7 @@
 ## Jinyi Zhou
 <ul>
   <li> Current student of the Master of Software Development program at the University of Utah.</li>
+  <li> Master of Science in Civil Engineering @ Lehigh University 22'.</li>
 </ul>
 
 <div id="badges">
