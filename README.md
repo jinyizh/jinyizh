@@ -1,13 +1,18 @@
-## Jinyi Zhou
+## Hello, I am Jinyi Zhou!
 <ul>
-  <li> Current student of the Master of Software Development program at the University of Utah.</li>
-  <li> Master of Science in Civil Engineering @ Lehigh University 22'.</li>
+  <li> I am a current student of the Master of Software Development program at the University of Utah. </li>
+  <li> I graduated from the Master of Science in Civil Engineering program at Lehigh University in 22'. </li>
+  <li> I am looking for internship and full-time opportunities in Summer/Fall 2023. </li>
 </ul>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/jinyizhou620">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyizh&layout=compact&theme=transparent)
+
+---
+
+<h3 align="left">You can also find me on:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/jinyizhou620/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jinyizhou620/" height="30" width="40" /></a>
+<a href="https://leetcode.com/jinyizh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/jinyizh/" height="30" width="40" /></a>
+</p>
